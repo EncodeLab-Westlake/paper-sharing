@@ -3,7 +3,7 @@
 ## Oct. 31, 2025
 
 ### Efficiency in Large Language Models
-Presenter: Wenjie
+Presenter: [Wenjie](https://kurt232.github.io/)
 
 #### KV Cache Compression
 |paper|conference|date|institution|group|
