@@ -1,5 +1,8 @@
 # Paper List
 
+<details>
+<summary><h2>Oct. 31, 2025</h2></summary>
+
 ## Oct. 31, 2025
 
 ### Efficiency in Large Language Models
@@ -33,9 +36,6 @@ Presenter: [Wenjie](https://kurt232.github.io/)
 |---|---|---|---|---|
 |[Your Efficient RL Framework Secretly Brings You Off-Policy RL Training](https://fengyao.notion.site/off-policy-rl#279721e3f6c48032af82d31498e49c5d)|blog|Aug 25|MS|Jianfeng Gao|
 |[On-Policy Distillation](https://thinkingmachines.ai/blog/on-policy-distillation/)|blog|Oct 25|Thinking Machines Lab|Thinking Machines Lab|
-
-<details>
-<summary><h2>Oct. 31, 2025</h2></summary>
 
 #### LLM Kernel Generation
 Presenter: [Haolei](https://scholar.google.com/citations?user=CGh99DUAAAAJ&hl=zh-CN)
