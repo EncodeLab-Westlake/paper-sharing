@@ -36,7 +36,11 @@ Presenter: [Wenjie](https://kurt232.github.io/)
 
 <details>
 <summary><h2>Oct. 31, 2025</h2></summary>
+
 #### LLM Kernel Generation
+Presenter: [Haolei](https://scholar.google.com/citations?user=CGh99DUAAAAJ&hl=zh-CN)
+
+#### Benchmark
 |paper|conference|date|institution|group|
 |---|---|---|---|---|
 |[KernelBench: Can LLMs Write Efficient GPU Kernels?](https://arxiv.org/abs/2502.10517)|ICML’25|14 Feb 2025|Stanford|Azalia Mirhoseini|
