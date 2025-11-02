@@ -44,4 +44,34 @@ Presenter: [Haolei](https://scholar.google.com/citations?user=CGh99DUAAAAJ&hl=zh
 |[KernelBench: Can LLMs Write Efficient GPU Kernels?](https://arxiv.org/abs/2502.10517)|ICML’25|14 Feb 2025|Stanford|Azalia Mirhoseini|
 |[TritonBench: Benchmarking large language model capabilities for generating triton operators](https://arxiv.org/abs/2502.14752)|ACL Findings’25|20 Feb 2025|THUNLP|Maosong Sun|
 
+### Prompt Engineering
+|paper|conference|date|institution|group|
+|---|-----|---|----|---|
+|[CUDA-LLM: LLMs Can Write Efficient CUDA Kernels](https://arxiv.org/abs/2506.09092)|arXiv|10 Jun 2025|SJTU|An Zou|
+
+### Reinforcement Learning
+|paper|conference|date|institution|group|
+|-|-----|---|----|---|
+|[Kevin: Multi-Turn RL for Generating CUDA Kernels](https://arxiv.org/abs/2507.11948)|ES-FoMo-III Workshop @ICML’25|16 Jul 2025|Stanford, Cognition AI|Cognition AI|
+|[AutoTriton: Automatic Triton Programming with Reinforcement Learning in LLMs](https://arxiv.org/abs/2507.05687)|arXiv|8 Jul 2025|THUNLP|Maosong Sun|
+
+### Agent
+|paper|conference|date|institution|group|
+|-|-----|---|----|---|
+|[Astra: A Multi-Agent System for GPU Kernel Performance Optimization](https://arxiv.org/abs/2509.07506)|DL4C workshop @NeurIPS’25|9 Sep 2025|Stanford|Stanford|
+
+### Dataset
+|paper|conference|date|institution|group|
+|-|----|---|----|-----|
+|[ConCuR: Conciseness Makes State-of-the-Art Kernel Generation](https://arxiv.org/abs/2510.07356)|aXiv|8 Oct 2025|Westlake|Huan Wang|
+
+### Other Resources
+### Models
+|model|parameter| institution |
+|------------------------------------------------------|--|----|
+|[KernelLLM](https://huggingface.co/facebook/KernelLLM)|8B|Meta|
+|[cudaLLM](https://huggingface.co/facebook/KernelLLM)|8B|ByteDance|
+### Related Blogs
+[How Many Agents Does it Take to Beat PyTorch?](https://letters.lossfunk.com/p/how-many-agents-does-it-take-to-beat)  
+[Towards Automated GPU Kernel Generation](https://simonguo.tech/blog/2025-10-automated-gpu-kernels.html?utm_source=chatgpt.com)
 </details>
