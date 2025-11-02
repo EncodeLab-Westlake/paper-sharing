@@ -3,12 +3,10 @@
 <details>
 <summary><h2>Oct. 31, 2025</h2></summary>
 
-## Oct. 31, 2025
-
-### Efficiency in Large Language Models
+## Efficiency in Large Language Models
 Presenter: [Wenjie](https://kurt232.github.io/)
 
-#### KV Cache Compression
+### KV Cache Compression
 |paper|conference|date|institution|group|
 |---|---|---|---|---|
 |[H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models](https://arxiv.org/abs/2306.14048)|NeurIPS'23|June 23|CMU|Beidi Chen|
@@ -23,7 +21,7 @@ Presenter: [Wenjie](https://kurt232.github.io/)
 |[Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?](https://arxiv.org/abs/2506.17121)|arXiv|June 25|Princeton|Danqi Chen|
 |[Which Heads Matter for Reasoning? RL-Guided KV Cache Compression](https://arxiv.org/abs/2510.08525)|arXiv|Oct 25|Westlake|Huan Wang|
 
-#### Sparse Attention
+### Sparse Attention
 |paper|conference|date|institution|group|
 |---|---|---|---|---|
 |[Efficient streaming language models with attention sinks](https://arxiv.org/abs/2309.17453)|ICLR’24|Sept 23|MIT|Song Han|
@@ -31,16 +29,16 @@ Presenter: [Wenjie](https://kurt232.github.io/)
 |[Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2406.10774)|ICML’24|June 24|MIT|Song Han|
 |[Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089)|ACL'25 (best paper award)|Feb 25|DeepSeek-AI|DeepSeek-AI|
 
-#### Efficiency for Training
+### Efficiency for Training
 |paper|conference|date|institution|group|
 |---|---|---|---|---|
 |[Your Efficient RL Framework Secretly Brings You Off-Policy RL Training](https://fengyao.notion.site/off-policy-rl#279721e3f6c48032af82d31498e49c5d)|blog|Aug 25|MS|Jianfeng Gao|
 |[On-Policy Distillation](https://thinkingmachines.ai/blog/on-policy-distillation/)|blog|Oct 25|Thinking Machines Lab|Thinking Machines Lab|
 
-#### LLM Kernel Generation
+## LLM Kernel Generation
 Presenter: [Haolei](https://scholar.google.com/citations?user=CGh99DUAAAAJ&hl=zh-CN)
 
-#### Benchmark
+### Benchmark
 |paper|conference|date|institution|group|
 |---|---|---|---|---|
 |[KernelBench: Can LLMs Write Efficient GPU Kernels?](https://arxiv.org/abs/2502.10517)|ICML’25|14 Feb 2025|Stanford|Azalia Mirhoseini|
