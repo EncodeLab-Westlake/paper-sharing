@@ -1,8 +1,8 @@
 # Paper List
 
 <!-- <details> -->
-<summary><h2>Oct. 31, 2025</h2></summary>
-
+<!-- <summary><h2>Oct. 31, 2025</h2></summary> -->
+# Oct. 31, 2025
 ## Efficiency in Large Language Models
 Presenter: [Wenjie](https://kurt232.github.io/)
 
