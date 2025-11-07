@@ -1,6 +1,6 @@
 # Paper List
 
-<details>
+<!-- <details> -->
 <summary><h2>Oct. 31, 2025</h2></summary>
 
 ## Efficiency in Large Language Models
@@ -74,4 +74,4 @@ Presenter: [Haolei](https://scholar.google.com/citations?user=CGh99DUAAAAJ&hl=zh
 ### Related Blogs
 [How Many Agents Does it Take to Beat PyTorch?](https://letters.lossfunk.com/p/how-many-agents-does-it-take-to-beat)  
 [Towards Automated GPU Kernel Generation](https://simonguo.tech/blog/2025-10-automated-gpu-kernels.html?utm_source=chatgpt.com)
-</details>
+<!-- </details> -->
