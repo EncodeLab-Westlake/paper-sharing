@@ -73,5 +73,30 @@ Presenter: [Haolei](https://scholar.google.com/citations?user=CGh99DUAAAAJ&hl=zh
 |[cudaLLM](https://huggingface.co/facebook/KernelLLM)|8B|ByteDance|
 ### Related Blogs
 [How Many Agents Does it Take to Beat PyTorch?](https://letters.lossfunk.com/p/how-many-agents-does-it-take-to-beat)  
+
+<!-- <details> -->
+<!-- <summary><h2>Nov. 06, 2025</h2></summary> -->
+# Nov. 06, 2025
+## Large Language Models Quantization
+Presenter: [Mingluo](https://github.com/sunshine-0903)
+
+### Datatype
+|paper|date|
+|---|---|
+|[Microscaling Data Formats for Deep Learning](https://arxiv.org/abs/2310.10537)|Oct. 23|
+|[NVFP4](https://developer.nvidia.com/blog/introducing-nvfp4-for-efficient-and-accurate-low-precision-inference)|Jan. 25|
+
+### Rotation
+|paper|conference|date|institution|group|
+|---|---|---|---|---|
+|[AffineQuant: Affine Transformation Quantization for Large Language Models](https://arxiv.org/abs/2403.125446)|ICLR'24|March 2025|XMU|Rongrong Ji|
+|[QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks](https://arxiv.org/abs/2403.125446)|ICML'24|Dec. 2024|Cornell|Albert Tseng|
+|[QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs](https://arxiv.org/abs/2404.00456)|NeurIPS'24|Apr. 2024|ETH|Saleh Ashkboos|
+|[DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs](https://arxiv.org/abs/2406.01721)|NeurIPS'24|June 2024|ZJU|Ying Wei|
+|[SpinQuant: LLM quantization with learned rotations](https://arxiv.org/abs/2406.01721)|ICLR'25|June 2024|Facebook|Tijmen Blankevoort|
+|[FlatQuant: Flatness Matters for LLM Quantization](https://arxiv.org/abs/2410.09426)|ICML'25|Oct. 2024|Tsinghua|Jun Yao|
+
+
+
 [Towards Automated GPU Kernel Generation](https://simonguo.tech/blog/2025-10-automated-gpu-kernels.html?utm_source=chatgpt.com)
 <!-- </details> -->
