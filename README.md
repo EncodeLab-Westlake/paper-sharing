@@ -86,17 +86,22 @@ Presenter: [Mingluo](https://github.com/sunshine-0903)
 |[Microscaling Data Formats for Deep Learning](https://arxiv.org/abs/2310.10537)|Oct. 23|
 |[NVFP4](https://developer.nvidia.com/blog/introducing-nvfp4-for-efficient-and-accurate-low-precision-inference)|Jan. 25|
 
+### Scaling
+|paper|conference|date|institution|group|
+|---|---|---|---|---|
+|[AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978)|MLSys'24|June 2023|MiT|Song Han|
+|[SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models.](https://arxiv.org/abs/2211.10438)|ICML'24|Nov. 2022|MiT|Song Han|
+|[OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](https://arxiv.org/abs/2308.13137)|ICLR'24|Aug. 2023|Shanghai AI Laboratory|Luo Ping|
+
+
 ### Rotation
 |paper|conference|date|institution|group|
 |---|---|---|---|---|
-|[AffineQuant: Affine Transformation Quantization for Large Language Models](https://arxiv.org/abs/2403.125446)|ICLR'24|March 2025|XMU|Rongrong Ji|
-|[QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks](https://arxiv.org/abs/2403.125446)|ICML'24|Dec. 2024|Cornell|Albert Tseng|
+|[AffineQuant: Affine Transformation Quantization for Large Language Models](https://arxiv.org/abs/2403.125446)|ICLR'24|March 2024|XMU|Rongrong Ji|
+|[QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks](https://arxiv.org/abs/2403.125446)|ICML'24|March. 2024|Cornell|Albert Tseng|
 |[QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs](https://arxiv.org/abs/2404.00456)|NeurIPS'24|Apr. 2024|ETH|Saleh Ashkboos|
 |[DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs](https://arxiv.org/abs/2406.01721)|NeurIPS'24|June 2024|ZJU|Ying Wei|
 |[SpinQuant: LLM quantization with learned rotations](https://arxiv.org/abs/2406.01721)|ICLR'25|June 2024|Facebook|Tijmen Blankevoort|
 |[FlatQuant: Flatness Matters for LLM Quantization](https://arxiv.org/abs/2410.09426)|ICML'25|Oct. 2024|Tsinghua|Jun Yao|
 
-
-
-[Towards Automated GPU Kernel Generation](https://simonguo.tech/blog/2025-10-automated-gpu-kernels.html?utm_source=chatgpt.com)
 <!-- </details> -->
